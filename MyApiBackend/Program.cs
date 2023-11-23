@@ -1,6 +1,5 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
-using MyApiBackend.App_Start;
 using MyApiBackend.AppConfig;
 
 var builder = WebApplication.CreateBuilder(args);
